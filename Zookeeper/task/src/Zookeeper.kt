@@ -126,5 +126,4 @@ fun main() {
         intStr = readLine()!!
     }
     println("See you later!")
-    println("-----end-----")
 }
