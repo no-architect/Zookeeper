@@ -1,0 +1,21 @@
+content:
+- Integers in action
+- Nullable and non-nullable types
+- Ranges
+- Type system
+- Floating-point types
+- Relational operators
+- String templates
+- Working with strings
+- String arrays
+- For loop and arrays
+- Multi-dimensional array
+- Work with MutableLists
+- Random
+- BigDecimal
+- Regexps
+- Taming exceptions
+- toString()
+- Data class
+- Introduction to generic programming
+- Generic functions

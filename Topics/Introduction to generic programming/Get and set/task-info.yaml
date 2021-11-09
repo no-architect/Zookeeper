@@ -1,0 +1,22 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    class QuizBox<T>(_item: T) {
+        var isChanged = false
+        var item: T = _item
+
+        //implement methods
+            get() { }
+
+            set(value) { }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/14705#comment
+status: Failed
+feedback:
+  message: |
+    Failed. Wrong answer
+  time: Fri, 29 Oct 2021 07:24:47 UTC
+record: -1
